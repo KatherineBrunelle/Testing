@@ -13,8 +13,6 @@ int main(int argc, char* argv){
 
   printf("\nWe're going to make some changes!");
 
-  printf("\nUh-oh, why are you showing up?");
-
   return 1;
 
 }
